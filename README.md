@@ -4,6 +4,18 @@
 
 请使用 [https://discuss.gluon.ai](https://discuss.gluon.ai) 讨论或报告问题。
 
+在线书地址：
+https://zh.gluon.ai/toc.htmlGitHub 
+
+项目：
+https://github.com/diveintodeeplearning/d2l-zh
+
+PDF：
+https://zh.gluon.ai/gluon_tutorials_zh.pdf
+
+视频：
+https://space.bilibili.com/209599371/channel/detail?cid=23541
+
 ## 如何贡献
 
 所有notebook是用markdown格式存储，这样方便merge改动。jupyter可以通过notedown来直接使用markdown，[参考这里安装](./chapter_appendix/jupyter.md#用jupyter-notebook读写github源文件)
